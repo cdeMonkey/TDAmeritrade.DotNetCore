@@ -1,5 +1,18 @@
 ## TD Ameritrade Client Library for .NET
 
+## TD Ameritrade will update API for Charles-Schwab integration. Update 
+
+Check These links as well.
+---------------------------------------------------------------------------------------------------
+
+https://medium.com/swlh/printing-money-with-td-ameritrades-api-a5cccf6a538c
+
+https://www.youtube.com/watch?v=olAl1VbS7aI
+
+---------------------------------------------------------------------------------------------------
+
+
+
 Free, open-source .NET Client for the [TD Ameritrade Trading Platform](https://www.tdameritrade.com/api.page).
 Helps developers integrate TD Ameritrade API into custom trading solutions.
 
